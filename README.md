@@ -11,7 +11,7 @@ processed retweet cascade datasets, ActiveRT2017.
 If you find the code helpful, please consider citing the paper:
 
 > \[1\] Quyu Kong, Marian-Andrei Rizoiu, and Lexing Xie. 2020.
-> Describing andPredicting Online Items with Resharing Cascades via Dual
+> Describing and Predicting Online Items with Resharing Cascades via Dual
 > Mixture Self-exciting Processes. In Proceedings of the 29th ACM
 > International Conferenceon Information and Knowledge Management (CIKM
 > ’20), October 19–23, 2020, Virtual Event, Ireland. ACM, New York,
